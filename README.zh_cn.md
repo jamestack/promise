@@ -1,11 +1,11 @@
 # Go Promise
-A Promise library for Go
+Golang版的Promise实现
 
-1. any value returned as "Promise" is "PromiseFunc".
-2. support promise chain call.
-3. support err catch.
+1. 任何返回值为"Promise"的函数均被视为"Promise函数".
+2. 支持Promise链式调用.
+3. 支持错误捕获.
 
-## Example:
+## 示例:
 ```go
 package main
 
@@ -49,3 +49,5 @@ func main() {
 }
 
 ```
+
+## [English Document](https://github.com/jamestack/promise/blob/main/README.md)
