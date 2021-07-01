@@ -49,3 +49,5 @@ func main() {
 }
 
 ```
+
+## [中文文档](https://github.com/jamestack/promise/blob/main/README.zh_cn.md)
