@@ -1,4 +1,4 @@
-package snow
+package promise
 
 import (
 	"fmt"
